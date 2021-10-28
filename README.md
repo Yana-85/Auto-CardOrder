@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/v5b9l0yt8l6x9dm9?svg=true)](https://ci.appveyor.com/project/Yana-85/auto-cardorder-81ry6)
